@@ -1,0 +1,54 @@
+# Unity generated folders and files
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+[Uu]ser[Ss]ettings
+
+# Unity package cache
+[Pp]ackages
+
+# Visual Studio  MonoDevelop generated files
+.csproj
+.sln
+.suo
+.user
+.userprefs
+.pidb
+.booproj
+
+# Build outputs
+.apk
+.aab
+.unitypackage
+
+# Crash reports and logs
+sysinfo.txt
+[Cc]rash
+
+# Editor-specific files
+.DS_Store  # macOS
+Thumbs.db   # Windows
+
+# Visual Studio / VS Code files
+*.csproj
+*.sln
+.vscode/
+*.vs/
+
+# Other miscellaneous
+.bak
+.tmp
+.cache
+*.pidb
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
